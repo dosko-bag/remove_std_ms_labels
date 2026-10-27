@@ -1,4 +1,5 @@
 ﻿# =====================================================================
+# V 1.0
 # Microsoft Purview
 # Remove Microsoft Default Sensitivity Labels
 # + Remove Global Sensitivity Label Policy
